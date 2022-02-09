@@ -1363,7 +1363,7 @@ Der Rückwärts Feed fungiert genau so wie der Vorwärts Feed, wird nur genau an
 Der Fluß der Methoden läuft dann von Unten nach Oben.
 
 === Hyperoperator
-Der *Hyperoperator* `>>.` ruft eine Methode aud allen Elementen einer Liste auf und gibt eine Liste mit allen Ergebnissen zurück.
+Der *Hyperoperator* `>>.` ruft eine Methode auf allen Elementen einer Liste auf und gibt eine Liste mit allen Ergebnissen zurück.
 [source,perl6]
 ----
 my @array = <0 1 2 3 4 5 6 7 8 9 10>;
